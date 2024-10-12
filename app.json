@@ -1,9 +1,9 @@
 {
-    "name": "ᴀʟᴘʜᴀ ʙᴀɴ ᴀʟʟ",
+    "name": "NOBITA BAN ALL",
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
     "logo": "https://graph.org/file/bbae2c50b58056ecc4df7.jpg",
     "keywords": ["ᴛᴇᴀᴍ-ᴘᴜʀᴠɪ", "ʙᴀɴ-ᴀʟʟ"],
-    "repository": "https://github.com/TEAMPURVI/ALPHA_BANALL",
+    "repository": "https://github.com/vishalpandeynkp1/NOBITA_BANALL_BOT",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
