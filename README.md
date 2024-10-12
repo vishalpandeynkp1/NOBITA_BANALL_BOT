@@ -1,14 +1,14 @@
 # 𝙉𝙊𝘽𝙄𝙏𝘼 𝘽𝘼𝙉𝘼𝙇𝙇 
 <h1 align="center"
  
-### 🚩🚩 गलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम् । चकार चण्डताण्डवं तनोतु नः शिवः शिवम् ॥ 🚩🚩
+###  || गलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम् । चकार चण्डताण्डवं तनोतु नः शिवः शिवम् || 
 <h1 align="center"
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝙉𝙊𝘽𝙄𝙏𝘼+🍁"></b></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h1 align="center"><b>NOBITA</b></h1>
-<p align="center"><a href="https://ll_ALPHA_BABY_lll"><img src="https://envs.sh/wWo.jpg" width="400"></a></p>
+<p align="center"><a href="https://VISHALPANDEYNKP1"><img src="https://envs.sh/wWo.jpg" width="400"></a></p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
