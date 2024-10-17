@@ -1,16 +1,24 @@
 # 𝙉𝙊𝘽𝙄𝙏𝘼 𝘽𝘼𝙉𝘼𝙇𝙇 
-<h1 align="center"
+<<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="left">
+                                                                                                  🔱      𝐉𝐀𝐈 𝐒𝐇𝐑𝐄𝐄 𝐌𝐀𝐇𝐀𝐊𝐀𝐋       🔱
+    
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+[![Vishal's GitHub Profile](https://img.shields.io/badge/GitHub-VishalPandey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishalpandeynkp1)
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
-###  || गलेऽवलम्ब्य लम्बितां भुजङ्गतुङ्गमालिकाम् । चकार चण्डताण्डवं तनोतु नः शिवः शिवम् || 
-<h1 align="center"
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0085&width=620&lines=🍁+🚩+𝗣𝗢𝗪𝗘𝗥𝗘𝗗+𝗕𝗬+𝙉𝙊𝘽𝙄𝙏𝘼+🍁"></b></h3>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>NOBITA</b></h1>
-<p align="center"><a href="https://github.com/vishalpandeynkp1"><img src="https://envs.sh/wWo.jpg" width="400"></a></p>
+![Stars](https://img.shields.io/github/stars/vishalpandeynkp1/VIPNOBITAMUSIC_REPO?style=social)
+![Forks](https://img.shields.io/github/forks/vishalpandeynkp1/VIPNOBITAMUSIC_REPO?style=social)
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+[![Vishal's GitHub Profile](https://github-readme-stats.vercel.app/api?username=vishalpandeynkp1&show_icons=true&theme=flag-india)](https://github.com/vishalpandeynkp1) 
+ [![GIF](https://github.com/vishalpandeynkp1/VIPNOBITAMUSIC_REPO/blob/main/VIPNOBITAMUSIC.gif)](https://github.com/vishalpandeynkp1)
+   [![NOBITA](https://github-stats-alpha.vercel.app/api?username=vishalpandeynkp1 "NOBITA")](https://github-stats-alpha.vercel.app/api?username=vishalpandeynkp1 "NOBITA")
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
