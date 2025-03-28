@@ -1,4 +1,4 @@
-jimport os
+import os
 import logging
 from os import getenv
 from pyrogram import Client, filters, idle
